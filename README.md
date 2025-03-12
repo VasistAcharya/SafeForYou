@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/13ccff4f-80b6-40d3-aed0-39b00c87fdee" width=10% height=10%>
+<img src="https://github.com/user-attachments/assets/13ccff4f-80b6-40d3-aed0-39b00c87fdee" width=15% height=15%>
 
 # Safe For You
 
