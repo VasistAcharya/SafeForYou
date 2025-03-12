@@ -1,5 +1,4 @@
 
-![lolgo]()
 <img src="https://github.com/user-attachments/assets/13ccff4f-80b6-40d3-aed0-39b00c87fdee.png" width=50% height=50%>
 
 # Safe For You
