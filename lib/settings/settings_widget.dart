@@ -145,7 +145,7 @@ class _SettingsWidgetState extends State<SettingsWidget> {
                     ),
               ),
               subtitle: Text(
-                'Allow us to track your location, this helps keep track of spending and keeps you safe.',
+                'Allow us to track your location, this helps  keeping you safe.',
                 style: FlutterFlowTheme.of(context).bodyMedium.override(
                       fontFamily: 'Manrope',
                       color: Color(0xFF8B97A2),
@@ -179,7 +179,7 @@ class _SettingsWidgetState extends State<SettingsWidget> {
                       ),
                 ),
                 subtitle: Text(
-                  'Choose to turn of recording',
+                  'Choose to turn off recording',
                   style: FlutterFlowTheme.of(context).labelMedium.override(
                         fontFamily: 'Manrope',
                         color: Color(0x9F57636C),
